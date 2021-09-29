@@ -133,8 +133,7 @@ form {
   cursor: pointer;
 }
 .submit-button:hover {
-  background-color: grey;
-  transform: scale(1.1);
+  transform: scale(0.7);
 }
 .design {
   width: 56%;
